@@ -1,0 +1,9 @@
+{
+  "pack_name": "{pack.gabriel.sound.name}",
+  "author": ["technotubing"],
+  "description": "{pack.gabriel.sound.desc}",
+  "icon": "gabriel:textures/angrygabenoises.png",
+  "version": "1.0.1",
+  "date": "2026-05-31",
+  "url": "https://www.youtube.com/watch?v=LaJmtxJQuI0"
+}
